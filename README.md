@@ -10,4 +10,4 @@ ____
 >   
 >  2. [Question 2](https://github.com/NethmiRodrigo/SCS-2204-Functional-Programming/blob/master/Assignment%201/src/Question12.scala) - Volume of a sphere given the radius
 >    
->  3. [Question 3](https://github.com/NethmiRodrigo/SCS-2204-Functional-Programming/blob/master/Assignment%201/src/Question3.scala) - Wholeale price of a given amount of books
+>  3. [Question 3](https://github.com/NethmiRodrigo/SCS-2204-Functional-Programming/blob/master/Assignment%201/src/Question3.scala) - Wholesale price of a given amount of books

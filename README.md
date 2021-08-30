@@ -21,3 +21,9 @@ ____
 
 ### [Assignment 3](https://github.com/NethmiRodrigo/SCS-2204-Functional-Programming/tree/master/Assignment%203)
 > Scala code for encyrption and decryption of text following Caesar Cipher algorithm
+
+### [Assignment 4](https://github.com/NethmiRodrigo/SCS-2204-Functional-Programming/tree/master/Functions%26Data)
+> Scala code for the functions and data assignment
+
+### [Assignment 5](https://github.com/NethmiRodrigo/SCS-2204-Functional-Programming/tree/master/CaseClass)
+> Code for the case class assignment
